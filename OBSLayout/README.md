@@ -18,3 +18,5 @@ All of these files are named the same as they are on the soundtrack.
 1. The Streammeta source should be the browser source of your streammeta overlay as given to you by the website.
 2. The Credits source is just the source of a streamelements overlay. You can choose not to use it.
 3. To use automation with different scenes and controllers, you must install the [Advanced Scene Switcher on OBS](https://obsproject.com/forum/resources/advanced-scene-switcher.395/). The scene profile `scene-switcher-macros.txt` can be imported. You will need to change the one macro that handles setting the data on the replay scene to point to the right folder. Same when leaving the replay source.
+4. Make sure your OBS video settings are properly set for the Flashback replay recordings. You will want to make sure that you have them set like the image below. Files should be dumped into the replays folder.
+![OBS Setting](image.png)

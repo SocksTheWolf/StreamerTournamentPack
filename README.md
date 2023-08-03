@@ -10,9 +10,7 @@ The template for the discord server can be [found here, clicking this link](http
 
 * [Streameta](https://streameta.com) for OBS control as well as overlays
 * [Challonge](https://challonge.com/) for bracketing
+* [Random.org](https://random.org) for coin flips
 * Google Docs for sign ups, matching, seeding, and scheduling
 
-## TODO:
-
-* Add some information about using the discord server.
-* ???
+If there's anything else that I am missing or would help out please open an issue such that I can make sure to properly update the repository so there's information here to run future events.

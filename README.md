@@ -11,6 +11,7 @@ The template for the discord server can be [found here, clicking this link](http
 * [Streameta](https://streameta.com) for OBS control as well as overlays
 * [Challonge](https://challonge.com/) for bracketing
 * [Random.org](https://random.org) for coin flips
+* [HammerTime](https://hammertime.cyou/) for making sure that schedule timestamps were autoconverted into the reader's timezones.
 * Google Docs for sign ups, matching, seeding, and scheduling
 
 If there's anything else that I am missing or would help out please open an issue such that I can make sure to properly update the repository so there's information here to run future events.
